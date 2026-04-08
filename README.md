@@ -200,42 +200,9 @@ Frontend UI
 
 ---
 
-## 🚀 Installation & Setup
 
-```bash
-# Clone the repository
-git clone https://github.com/your-username/viral-content-predictor.git
 
-cd viral-content-predictor
 
-# Create virtual environment
-python -m venv venv
-
-# Activate environment
-source venv/bin/activate  # Linux/Mac
-venv\Scripts\activate     # Windows
-
-# Install dependencies
-pip install -r requirements.txt
-```
-
----
-
-## ▶️ Running the Project
-
-### Start Backend
-
-```bash
-uvicorn app.main:app --reload
-```
-
-### Start Frontend (Streamlit)
-
-```bash
-streamlit run app/ui.py
-```
-
----
 
 ## 📸 Example Usage
 
@@ -287,42 +254,7 @@ Suggestions:
 - Startups validating content ideas
     
 - Social media managers improving engagement
+     
+
     
 
----
-
-## 🤝 Team
-
-Built by a team of two:
-
-- ML Engineer → modeling, data pipeline
-    
-- Software Engineer → UI, API, integration
-    
-
----
-
-## 🧠 What Makes This Project Stand Out
-
-- Not just prediction → **decision support system**
-    
-- End-to-end pipeline (data → model → UI)
-    
-- Real-world business application
-    
-- Fast, interactive, and practical
-    
-
----
-
-## 📄 License
-
-This project is open-source and available under the MIT License.
-
----
-
-## ⭐ Final Note
-
-This project is more than a model.
-
-It’s a step toward building **AI systems that understand human attention**.
